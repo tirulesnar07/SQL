@@ -5,3 +5,9 @@ https://youtu.be/BF7E-GNXSBQ?si=D-Mk5GM-hVc1zEIU
 
 Step2: Download the SSMS for managing the database.click the below link.(GUI) SQL SERVER 2021
 SQL Server Management Studio (SSMS):https://go.microsoft.com/fwlink/?linkid=2257624&clcid=0x409
+
+
+//
+SQL Server Express is a free, lightweight edition of Microsoft SQL Server, designed for small-scale applications and learning purposes. It provides core database functionalities but has limitations on storage, performance, and advanced features compared to paid editions.
+SQL Server Management Studio (SSMS) is a graphical user interface (GUI) tool used to manage SQL Server databases, including SQL Server Express. It allows users to write queries, manage databases, configure settings, and perform administrative tasks 
+//
